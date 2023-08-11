@@ -1,0 +1,4 @@
+.DS_Store
+
+#All output files are ignored in this repository.
+*.json
